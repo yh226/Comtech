@@ -1,0 +1,33 @@
+1427706220TS---><!DOCTYPE html>
+<html>
+<head>
+<meta charset="gb2312">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>TOP</title>
+<link href="/themes/skin/css/style.css" rel="stylesheet" type="text/css" />
+<script src="/themes/skin/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script src="/themes/layer/layer.min.js" type="text/javascript"></script>
+<script src="/themes/skin/js/login.js" type="text/javascript"></script>
+</head>
+<body style="background:url(/themes/skin/images/topbg.gif) repeat-x;">
+<div class="topleft"><a href="/" target="_parent"><img src="/themes/skin/images/logo.png" title="客户管理系统" /></a></div>
+<ul class="nav" id="topnav">
+	<li><a href="http://www.aizuzhi.com/home/left/1" target="leftFrame" class="selected"><img src="/themes/skin/images/icon01.png" title="通讯录" /><h2>通讯录</h2></a></li>
+	<li><a href="http://www.aizuzhi.com/home/left/2" target="leftFrame"><img src="/themes/skin/images/icon02.png" title="管理" /><h2>客户管理</h2></a></li>
+	<!--li><a href="/"  target="rightFrame"><img src="/themes/skin/images/icon03.png" title="模块设计" /><h2>模块设计</h2></a></li>
+	<li><a href="/"  target="rightFrame"><img src="/themes/skin/images/icon04.png" title="常用工具" /><h2>常用工具</h2></a></li-->
+	<li><a href="http://www.aizuzhi.com/home/left/3" target="leftFrame"><img src="/themes/skin/images/icon05.png" title="文件管理" /><h2>文件管理</h2></a></li>
+	<li><a href="http://www.aizuzhi.com/home/left/4"  target="leftFrame"><img src="/themes/skin/images/icon06.png" title="系统设置" /><h2>系统设置</h2></a></li>
+</ul>
+<div class="topright">    
+	<ul>
+		<li><span><img src="/themes/skin/images/help.png" title="帮助"  class="helpimg"/></span><a href="/">帮助</a></li>
+		<li><a href="JavaScript:;" id="about">关于</a></li>
+		<li><a href="/" target="_parent">退出</a></li>
+	</ul>
+	<div class="user">
+		<span>taobaocp</span>
+	</div>    
+</div>
+</body>
+</html>

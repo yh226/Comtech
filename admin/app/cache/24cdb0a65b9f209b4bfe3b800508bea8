@@ -1,0 +1,23 @@
+1427706220TS---><!DOCTYPE html>
+<html>
+<head>
+<meta charset="gb2312">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>操作平台 - 客户管理系统V1.0</title>
+<link rel="stylesheet" href="/themes/skin/css/login.css" />
+<script src="/themes/skin/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script src="/themes/layer/layer.min.js" type="text/javascript"></script>
+<script src="/themes/skin/js/login.js" type="text/javascript"></script>
+</head>
+<frameset rows="88,*" cols="*" frameborder="no" border="0" framespacing="0">
+  <frame src="http://www.aizuzhi.com/home/top" name="topFrame" scrolling="No" noresize="noresize" id="topFrame" title="topFrame" />
+  <frameset cols="187,*" frameborder="no" border="0" framespacing="0">
+    <frame src="http://www.aizuzhi.com/home/left" name="leftFrame" scrolling="No" noresize="noresize" id="leftFrame" title="leftFrame" />
+    <frame src="http://www.aizuzhi.com/home/right" name="rightFrame" id="rightFrame" title="rightFrame" />
+  </frameset>
+</frameset>
+<noframes><body>
+</body></noframes>
+</html>
